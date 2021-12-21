@@ -924,3 +924,35 @@
 2021-12-21 22:57:01 INFO  BasePage:25 - By.className: removeProd tıklandı
 2021-12-21 22:57:03 INFO  BasePage:35 - Beklendi
 2021-12-21 22:57:04 INFO  BasketPage:41 - Sepet boş
+2021-12-21 23:43:19 INFO  BasePage:35 - Beklendi
+2021-12-21 23:43:19 ERROR BasePage:27 - By.cssSelector: .myLocation-headsUp .agt-s-info .btnBlack tıklanmadı
+2021-12-21 23:43:19 ERROR BasePage:27 - By.cssSelector: .popin .closeBtn tıklanmadı
+2021-12-21 23:43:21 INFO  BasePage:35 - Beklendi
+2021-12-21 23:43:21 INFO  BasePage:46 - By.id: searchData bilgisayar yazıldı
+2021-12-21 23:44:03 INFO  BasePage:67 - By.id: searchData tıklandı
+2021-12-21 23:44:03 INFO  HomePage:35 - bilgisayar aratıldı
+2021-12-21 23:44:05 INFO  BasePage:35 - Beklendi
+2021-12-21 23:44:05 INFO  ProductListPage:25 - search sayfası açıldı
+2021-12-21 23:44:07 INFO  BasePage:35 - Beklendi
+2021-12-21 23:44:13 INFO  BasePage:25 - By.xpath: //*[@id="contentListing"]//a[2] tıklandı
+2021-12-21 23:44:13 INFO  ProductListPage:30 - 2.sayfa açıldı
+2021-12-21 23:44:15 INFO  BasePage:35 - Beklendi
+2021-12-21 23:44:15 INFO  ProductListPage:36 - Sayfa 2 açık
+2021-12-21 23:44:17 INFO  BasePage:35 - Beklendi
+2021-12-21 23:44:19 INFO  BasePage:35 - Beklendi
+2021-12-21 23:44:20 INFO  BasePage:25 - By.xpath: //div[4]/div/div[2]/a tıklandı
+2021-12-21 23:44:20 INFO  ProductDetailPage:19 - Sepete eklendi
+2021-12-21 23:44:22 INFO  BasePage:35 - Beklendi
+2021-12-21 23:44:25 INFO  BasePage:25 - By.className: myBasket tıklandı
+2021-12-21 23:44:25 INFO  BasePage:25 - By.xpath: //*[@id="userKvkkModal"]//div[2] tıklandı
+2021-12-21 23:44:25 INFO  HomePage:42 - Sepete gidildi
+2021-12-21 23:44:27 INFO  BasePage:35 - Beklendi
+2021-12-21 23:44:27 INFO  BasketPage:26 - Product detay ve sepet sayfasında ürün fiyatları eşittir.
+2021-12-21 23:44:29 INFO  BasePage:35 - Beklendi
+2021-12-21 23:44:29 INFO  BasePage:25 - By.className: spinnerUp tıklandı
+2021-12-21 23:44:31 INFO  BasePage:35 - Beklendi
+2021-12-21 23:44:31 INFO  BasketPage:48 - Adet:2
+2021-12-21 23:44:33 INFO  BasePage:35 - Beklendi
+2021-12-21 23:44:33 INFO  BasePage:25 - By.className: removeProd tıklandı
+2021-12-21 23:44:35 INFO  BasePage:35 - Beklendi
+2021-12-21 23:44:37 INFO  BasketPage:41 - Sepet boş
